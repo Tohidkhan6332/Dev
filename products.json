@@ -1,0 +1,42 @@
+{
+  "currency": "INR",
+  "paymentStatus": "pending",
+  "products": [
+    {
+      "id": "bug-bot-script",
+      "name": "Bug Bot Script",
+      "type": "digital",
+      "price": 499,
+      "billing": "one-time",
+      "status": "available",
+      "description": "Developer automation package with setup guidance and basic support."
+    },
+    {
+      "id": "bot-deployment",
+      "name": "Bot Deployment",
+      "type": "service",
+      "price": 799,
+      "billing": "from",
+      "status": "available",
+      "description": "Deployment and configuration for your existing bot or project."
+    },
+    {
+      "id": "custom-script",
+      "name": "Custom Script",
+      "type": "service",
+      "price": null,
+      "billing": "quote",
+      "status": "available",
+      "description": "A tailored automation or developer utility based on your requirements."
+    },
+    {
+      "id": "custom-bot",
+      "name": "Custom Bot Development",
+      "type": "service",
+      "price": null,
+      "billing": "quote",
+      "status": "available",
+      "description": "Custom bot development for authorized workflows, APIs and automation."
+    }
+  ]
+}
